@@ -4,7 +4,7 @@
 
 ---
 
-## Tecnologies & Tools
+## Technologies & Tools
 
 * [Express](http://expressjs.com)
 * [TypeScript](https://www.typescriptlang.org/)
